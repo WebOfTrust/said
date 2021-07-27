@@ -10,7 +10,7 @@ https://pypi.org/manage/projects/
 More secure to use twine to upload
 $ pip3 install twine
 $ python3 setup.py sdist
-$ twine upload dist/obtain-0.0.1.tar.gz
+$ twine upload dist/said-0.0.1.tar.gz
 
 
 Update sphinx /docs

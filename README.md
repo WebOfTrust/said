@@ -1,2 +1,2 @@
-# said
-Self-Addressing Identifiers 
+# Self-Addressing Identifier (SAID) Specification
+
